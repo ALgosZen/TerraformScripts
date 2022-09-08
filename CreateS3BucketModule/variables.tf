@@ -8,7 +8,7 @@ variable "aws_region" {
 variable "bucket_name" {
   description = "bucket name"
   type        = string
-  default     = "glue-course-2022"
+  default     = "glue-course-2023"
 
 }
 
